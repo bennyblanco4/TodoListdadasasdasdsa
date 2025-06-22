@@ -3,7 +3,7 @@
    <BuildAction parallelizeBuildables="YES" buildImplicitDependencies="YES">
       <BuildActionEntries>
          <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
-            <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="350D7B64189E2CAF" BuildableName="TodoList.app" BlueprintName="TodoList" ReferencedContainer="container:TodoList.xcodeproj"/>
+            <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="5D4982103CAF6B7E" BuildableName="TodoList.app" BlueprintName="TodoList" ReferencedContainer="container:TodoList.xcodeproj"/>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
@@ -13,7 +13,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2D19307B564CEF8A"
+               BlueprintIdentifier = "A0718B96CD5243FE"
                BuildableName = "TodoListTests.xctest"
                BlueprintName = "TodoListTests"
                ReferencedContainer = "container:TodoList.xcodeproj">
@@ -23,7 +23,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7BA08C231F459DE6"
+               BlueprintIdentifier = "0C4785DA9E3B612F"
                BuildableName = "TodoListUITests.xctest"
                BlueprintName = "TodoListUITests"
                ReferencedContainer = "container:TodoList.xcodeproj">
@@ -33,7 +33,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "350D7B64189E2CAF"
+            BlueprintIdentifier = "5D4982103CAF6B7E"
             BuildableName = "TodoList.app"
             BlueprintName = "TodoList"
             ReferencedContainer = "container:TodoList.xcodeproj">
@@ -44,7 +44,7 @@
       <BuildableProductRunnable runnableDebuggingMode="0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "350D7B64189E2CAF"
+            BlueprintIdentifier = "5D4982103CAF6B7E"
             BuildableName = "TodoList.app"
             BlueprintName = "TodoList"
             ReferencedContainer = "container:TodoList.xcodeproj">
@@ -56,7 +56,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "350D7B64189E2CAF"
+            BlueprintIdentifier = "5D4982103CAF6B7E"
             BuildableName = "TodoList.app"
             BlueprintName = "TodoList"
             ReferencedContainer = "container:TodoList.xcodeproj">
